@@ -1,0 +1,30 @@
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\bin\Debug\CaseReport.exe.config
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\bin\Debug\CaseReport.exe
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\bin\Debug\CaseReport.pdb
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.csproj.AssemblyReference.cache
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.Form1.resources
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.Properties.Resources.resources
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.csproj.GenerateResource.cache
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.csproj.CoreCompileInputs.cache
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.exe
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.pdb
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.Form2.resources
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.Form3.resources
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.Form4.resources
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.Form5.resources
+C:\Users\T00727124\OneDrive - Thompson Rivers University\C# stuff\CaseReport\CaseReport\obj\Debug\CaseReport.Form6.resources
+D:\CaseReport\CaseReport\bin\Debug\CaseReport.exe.config
+D:\CaseReport\CaseReport\bin\Debug\CaseReport.exe
+D:\CaseReport\CaseReport\bin\Debug\CaseReport.pdb
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.csproj.AssemblyReference.cache
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.Form1.resources
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.Form2.resources
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.Form3.resources
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.Form4.resources
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.Form5.resources
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.Form6.resources
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.Properties.Resources.resources
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.csproj.GenerateResource.cache
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.csproj.CoreCompileInputs.cache
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.exe
+D:\CaseReport\CaseReport\obj\Debug\CaseReport.pdb
